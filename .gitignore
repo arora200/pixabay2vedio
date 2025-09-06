@@ -1,0 +1,11 @@
+output/ 
+__pycache__/ 
+*.pyc 
+*.mp3 
+*.mp4 
+*.json 
+dummy_video.mp4 
+dummy_audio.mp3 
+test_output/ 
+*.bat 
+*.txt 
